@@ -1,0 +1,10 @@
+﻿node_modules/
+*.bak*
+*.patched
+*.dec
+found_key.json
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
