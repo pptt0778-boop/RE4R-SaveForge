@@ -1,0 +1,26 @@
+{
+  "name": "re4r-saveforge",
+  "version": "1.0.0",
+  "description": "Resident Evil 4 Remake (PC) Save Editor, Decryptor and Cheat Tool with LIME ElGamal/AES-OFB/SHA3 engine support",
+  "main": "re4r.js",
+  "bin": {
+    "re4r-saveforge": "./re4r.js"
+  },
+  "scripts": {
+    "test": "node re4r.js --help"
+  },
+  "keywords": [
+    "re4r",
+    "resident-evil-4",
+    "save-editor",
+    "re-engine",
+    "lime-crypto",
+    "cheats",
+    "reverse-engineering"
+  ],
+  "author": "pptt0778-boop",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
